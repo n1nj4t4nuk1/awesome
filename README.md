@@ -38,6 +38,7 @@
 - [Metasploit](https://www.metasploit.com/) - Penetration testing framework used for exploiting vulnerabilities.
 - [NMAP](https://nmap.org/) - Scanning and security auditing tool.
 - [Nuclei](https://nuclei.projectdiscovery.io/) - Fast and customizable vulnerability scanner.
+- [Wireshark](https://www.wireshark.org/) - Network protocol and packet analyzer.
 
 ### Software & Tools <a name="security@software-and-tools"></a>
 - [Burp Suite](https://portswigger.net/burp) - Comprehensive web application security testing platform.
