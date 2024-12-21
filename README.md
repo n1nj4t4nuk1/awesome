@@ -31,6 +31,8 @@
 - [NIST CPE Search](https://nvd.nist.gov/products/cpe/search) - Search common vulnerabilities.
 - [Shodan](https://www.shodan.io/) - Search engine specialized in gathering information about Internet-connected devices.
 - [VirusTotal](https://www.virustotal.com/) - Tool for Analysing suspicious files, domains, IPs and URLs.
+- [HackerOne](https://www.hackerone.com/) - Bug Bounty Platform.
+- [BugCrowd](https://www.bugcrowd.com/) - Bug Bounty Platform.
 
 ### CLI Software & Tools <a name="security@cli-software-and-tools"></a>
 - [Hashcat](https://hashcat.net/hashcat/) - Brute-force password recovery tool.
