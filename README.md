@@ -47,6 +47,8 @@
 - [IDA](https://ghidra-sre.org/) - Reverse engineering suite tool.
 - [ZAP](https://www.zaproxy.org/) - Web app proxy scanner.
 - [Wireshark](https://www.wireshark.org/) - Network protocol and packet analyzer.
+- [Misp](https://www.misp-project.org/) - Treat Intelligence open source platform.
+- [OpenCTI](https://docs.opencti.io/latest/) - Treat Intelligence open source platform.
 
 ## Development 👨🏻‍💻 <a name="development"></a>
 
