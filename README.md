@@ -76,6 +76,9 @@
 ## Git & Github 🐙 <a name="github"></a>
 
 ### Websites <a name="github@websites"></a>
+- [CodeBerg](https://codeberg.org/) - GitHub Open Source alternative.
+- [Gitea](https://gitea.com/) - GitHub Open Source alternative.
+- [GitLab](https://gitlab.com) - GitHub Open Source alternative.
 - [Github contributions chart generator](https://github-contributions.vercel.app/) - All your contributions in one image.
 - [Github Skyline](https://skyline.github.com/) - View a 3D model of your GitHub contribution graph.
 - [Github unwrapped](https://www.githubunwrapped.com/) - A beautiful annual summary of your GitHub.
