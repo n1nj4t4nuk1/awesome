@@ -56,6 +56,9 @@
 
 ### IDEs & Code editors <a name="development@ides-and-code-editors"></a>
 - [Visual Strudio Code](https://code.visualstudio.com/) - Lightweight and versatile source code editor.
+- [IntelliJ](https://www.jetbrains.com/idea/) - IDE for JAVA and Kotlin.
+- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Python.
+- [RustRover](https://www.jetbrains.com/rust/) - IDE for Rust.
 
 ## Data visualization 📊 <a name="data-visualization"></a>
 
