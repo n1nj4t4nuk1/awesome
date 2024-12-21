@@ -38,13 +38,15 @@
 - [Metasploit](https://www.metasploit.com/) - Penetration testing framework used for exploiting vulnerabilities.
 - [NMAP](https://nmap.org/) - Scanning and security auditing tool.
 - [Nuclei](https://nuclei.projectdiscovery.io/) - Fast and customizable vulnerability scanner.
-- [Wireshark](https://www.wireshark.org/) - Network protocol and packet analyzer.
+- [Snort](https://www.snort.org/) - Open source IPS.
+- [Suricata](https://suricata.io/) - Open source IDS.
 
 ### Software & Tools <a name="security@software-and-tools"></a>
 - [Burp Suite](https://portswigger.net/burp) - Comprehensive web application security testing platform.
 - [Ghidra](https://hex-rays.com/ida-pro/) - Reverse engineering suite tool.
 - [IDA](https://ghidra-sre.org/) - Reverse engineering suite tool.
 - [ZAP](https://www.zaproxy.org/) - Web app proxy scanner.
+- [Wireshark](https://www.wireshark.org/) - Network protocol and packet analyzer.
 
 ## Development 👨🏻‍💻 <a name="development"></a>
 
